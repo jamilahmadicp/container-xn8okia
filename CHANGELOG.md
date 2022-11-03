@@ -1,3 +1,16 @@
+# v0.0.2 (Thu Nov 03 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@jamilahmadicp](https://github.com/jamilahmadicp))
+- Update app.py ([@jamilahmadicp](https://github.com/jamilahmadicp))
+
+#### Authors: 1
+
+- Jamil Ahmad ([@jamilahmadicp](https://github.com/jamilahmadicp))
+
+---
+
 # v0.0.1 (Thu Nov 03 2022)
 
 :tada: This release contains work from a new contributor! :tada:
