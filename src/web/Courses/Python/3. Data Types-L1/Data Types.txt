@@ -1,0 +1,17 @@
+    Numbers: The Number data type is used to stores numeric values.
+    String: The string data type is used to stores the sequence of characters.
+    Tuple: Tuple data type is used to stores a collection of different data types of elements, and it is immutable.
+    List: List data type is used to store the collection of different data types of elements, and it is mutable.
+    Set: Set data type is used to store different data types of elements; it is mutable and stores unique elements.
+    Dictionary: Dictionary data type is used to store a collection of different data types of elements in the form of key-value pairs; it is mutable and stores the unique key.
+The Number can have 4 types of numeric data:
+
+    int: int stores integers eg a=100, b=25, c=526, etc.
+    long: long stores higher range of integers eg a=908090999L, b=-0x1990999L, etc.
+    float: float stores floating-point numbers eg a=25.6, b=45.90, c=1.290, etc.
+    complex: complex stores numbers eg a=3 + 4j, b=2 + 3j, c=complex(4,6), etc.
+
+Tuples also store the collection of the elements of different data types. A tuple is the same as the list, but a tuple is immutable (non-editable or cannot modify the size and elements value). To create a tuple uses the () simple parenthesis; within this brackets, store all the elements separated with the comma (,).
+List stores a collection of different types of elements. The list is mutable (editable). It is the same as arrays in C, but the list stores elements of different data types. To create a list uses the [] square brackets; within these brackets, stores all the elements separated with the comma (,). We can use index[i], slice [:] operators, concatenation operator (+), repetition operator (*) etc., to works with the list the same as with the strings.
+Set also stores the collection of the elements of different data types. A Set is the same as the list and tuple, but the set is immutable (non-editable or cannot modify the size and elements value), un order and stores only the unique elements. To create a set uses the {} curly brackets, within this brackets stores all the elements separated with the comma (,).
+Dictionary is also stored in a collection of different data types elements in the form of key-value pairs. It is ordered, mutable and stores unique keys as a set. To create a set uses the {} curly brackets same as a set, within this, brackets stores all the elements (key-value pair) separated with the comma (,).

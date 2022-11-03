@@ -1,0 +1,9 @@
+A control statement is a statement that determines the control flow of a set of instructions.
+Sequence control is an implicit form of control in which instructions are executed in the order that they are written.
+Selection control is provided by a control statement that selectively executes instructions.
+Iterative control is provided by an iterative control statement that repeatedly executes instructions.
+Boolean is a specific data type consists of True and False in Python. 
+Boolean expression is an expression that evaluates to a Boolean value.
+One way of producing Boolean values is by comparing.
+Relational expressions are a type of Boolean expression, since they evaluate to a Boolean result.
+Boolean (logical) operators , denoted by "and", "or", and "not" in Python.

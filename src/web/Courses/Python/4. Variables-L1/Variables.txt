@@ -1,0 +1,8 @@
+A Variable is nothing but a programming element used to define, store, and perform operations on the input data. Python variables are of four different types: Integer, Long Integer, Float, and String. Integers are used to define numeric values; Long Integers are used for defining integers with bigger lengths than a normal Integer. Floats are used for defining decimal values, and Strings are used for defining characters.
+Like other programming, languages python does not expect a static variable declaration along with the type of the variable being handled. Instead, python has the ability to determine the type of the variable just based on the type of value being stored in it.
+Variable casting is the process of converting a variable from one type to the other. For achieving this in python, the casting functions are in place. The casting functions take responsibility for the conversion of the variables from their actual type to the other format,
+
+    Type int(x) to convert x to a plain integer.
+    Type long(x) to convert x to a long integer.
+    Type float(x) to convert x to a floating-point number.
+
